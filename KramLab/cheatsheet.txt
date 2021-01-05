@@ -1,0 +1,5 @@
+﻿-- находится на ветке master
+git add .
+git commit -m "описание коммита"
+git status
+git push
